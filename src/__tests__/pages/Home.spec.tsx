@@ -140,7 +140,7 @@ describe('Home', () => {
     screen.getByText(
       'Tudo sobre como criar a sua primeira aplicação utilizando Create React App'
     );
-    screen.getByText('15 mar 2021');
+    screen.getByText('25 mar 2021');
     screen.getByText('Danilo Vieira');
   });
 
