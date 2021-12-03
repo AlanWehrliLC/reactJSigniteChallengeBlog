@@ -13,7 +13,6 @@ import { format } from 'date-fns'
 
 import { FiCalendar, FiUser } from 'react-icons/fi'
 
-import commonStyles from '../styles/common.module.scss'
 import styles from './home.module.scss'
 
 import { ptBR } from 'date-fns/locale'
