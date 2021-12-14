@@ -70,3 +70,16 @@
     background: transparent;
     font-size: 1.125rem;
   }
+
+  .preview{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+    background: var(--heading-text);
+    color: var(--background-color);
+    border-radius: 4px;
+    padding: 1rem;
+    font-weight: 600;
+    font-size: 1.125rem;
+  }
